@@ -1,0 +1,25 @@
+nav {
+    background-color:#7783A6;
+    text-align: center;
+    height: auto;
+    width: auto;
+    
+}
+
+.navbar-nav{
+    height: auto;
+    width: auto;
+    list-style: none;
+    display:inline-flex;
+    gap: 13px;
+    
+        
+}
+
+.nav-item {
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 18px;
+    text-align: center;
+}
+
